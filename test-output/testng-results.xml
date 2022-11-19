@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T21:34:34 EET" name="Default suite" finished-at="2022-11-18T21:35:02 EET" duration-ms="28204">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T21:34:34 EET" name="Default test" finished-at="2022-11-18T21:35:02 EET" duration-ms="28204">
+      <class name="first_Test">
+        <test-method is-config="true" signature="Login()[pri:0, instance:first_Test@4dbb42b7]" started-at="2022-11-18T21:34:34 EET" name="Login" finished-at="2022-11-18T21:34:44 EET" duration-ms="9635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Press()[pri:0, instance:first_Test@4dbb42b7]" started-at="2022-11-18T21:34:44 EET" name="Press" finished-at="2022-11-18T21:34:52 EET" duration-ms="7941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Press -->
+        <test-method signature="SelectAllItems()[pri:0, instance:first_Test@4dbb42b7]" started-at="2022-11-18T21:34:52 EET" name="SelectAllItems" finished-at="2022-11-18T21:34:54 EET" duration-ms="1872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectAllItems -->
+        <test-method signature="removeAllFromCart()[pri:0, instance:first_Test@4dbb42b7]" started-at="2022-11-18T21:34:54 EET" name="removeAllFromCart" finished-at="2022-11-18T21:34:55 EET" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeAllFromCart -->
+        <test-method signature="test_All_Items()[pri:0, instance:first_Test@4dbb42b7]" started-at="2022-11-18T21:34:55 EET" name="test_All_Items" finished-at="2022-11-18T21:35:02 EET" duration-ms="7775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_All_Items -->
+      </class> <!-- first_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
